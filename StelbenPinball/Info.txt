@@ -1,0 +1,8 @@
+Use A and D to use the left and right flippers, respectively.
+Drag the blue box down and let go to shoot ball into the pinball area.
+Box, Triangle, and Flipper collisions don't work some of the time, it's a feature.
+When you are out of balls you get to look at the board like it is a piece of art.
+
+Magenta Circles are pegs.
+White Circles are bumpers.
+The target gives a lot of points.
